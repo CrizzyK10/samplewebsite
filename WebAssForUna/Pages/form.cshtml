@@ -1,0 +1,105 @@
+﻿@page
+@model WebAssForUna.Pages.formModel
+@{
+	Layout = "_Layout";
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+	<meta name="viewport" content="width=device-width" initial-scale="1.0" />
+	<link rel="stylesheet" href="~/styles/Layout.css" type="text/css" />
+	<title>Let-Love="True".com</title>
+</head>
+<body>
+	<div class="header">
+		<h1>LetLove="True".com</h1>
+	</div>
+	<div class="container">
+		<div class="formContainer">
+			<form method="POST">
+				<!--Taking in all the inputs for the form-->
+				<!--Each elemeny is broken up into a spereat div, similar elements use the same class for styling-->
+				<!--First Name Input-->
+				<div class="textInput">
+					<label for="FirstN">First Name</label>
+					<input type="text" id="FirstN" asp-for="Person.FName" />
+				</div>
+				<!--Surname Input-->
+				<div class="textInput">
+					<label for="SurN">Surname</label>
+					<input type="text" id="SurN" asp-for="Person.SName" />
+				</div>
+				<!--PPSN Input-->
+				<div class="textInput">
+					<label for="PpsNum">PPSN</label>
+					<input type="text" id="PpsNum" asp-for="Person.PPSN" />
+				</div>
+				<!--DOB Input-->
+				<div class="textInput">
+					<label for="DOB">Date Of Birth</label>
+					<input type="date" id="DOB" asp-for="Person.DOB" />
+				</div>
+				<!--Gender Input-->
+				<!--Uses a different class as it is a radio button input-->
+				<div class="textInput">Gender</div>
+				<div class="genderInput">
+
+					<input type="radio" value="Male" id="genderMale" asp-for="Person.Gender" />
+					<label for="genderMale">Male</label>
+
+					<input type="radio" value="Female" id="genderFemale" asp-for="Person.Gender" />
+					<label for="genderFemale">Female</label>
+
+					<input type="radio" value="Other" id="genderOther" asp-for="Person.Gender" />
+					<label for="genderOther">Other</label>
+				</div>
+				<!--Height Input-->
+				<div class="textInput">
+					<label for="Height">Height</label>
+					<input type="text" id="Height" asp-for="Person.Height" />
+				</div>
+				<!--Email Input-->
+				<div class="textInput">
+					<label for="EMail">E-Mail</label>
+					<input type="text" id="EMail" asp-for="Person.Email" />
+				</div>
+				<!--Phone Number Input-->
+				<div class="noInput">
+					<label for="PhNum">Phone Number</label>
+					<input type="text" id="PhNum" asp-for="Person.PNumber" />
+				</div>
+				<!--Relationship Stats Input-->
+				<div class="rContainer">
+				<label>Relationship Status</label>
+				<div class="rStatus">
+					<div class="rStatus2">
+						<select asp-for="Person.RStatus">
+							<option value="Please Select an Option">N/A</option>
+							<option value="Never Married">Never Married</option>
+							<option value="Widowed">Widowed</option>
+							<option value="Divorced">Divorced</option>
+							<option value="Seperated">Seperated</option>
+						</select>
+					</div>
+				</div>
+				</div>
+				<!--Interests Input-->
+				<div class="textInput">Interests</div>
+				<div class="intList">
+					@for (int i = 0; i < 10; i++)
+					{
+						<input type="checkbox" asp-for="Person.Interests[i]" id="intlist" />
+						<label asp-for="Person.Interests[i]" id="intlist">@Model.Person.InterestsArray[i]</label>
+					}
+				</div>
+				<button type="submit" class="btn">Submit Data</button>
+			</form>
+			<div asp-validation-summary="All">
+			</div>
+		</div>
+	</div>
+
+</body>
+</html>

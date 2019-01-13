@@ -1,0 +1,44 @@
+C:\Users\Chris Kelly\College\Year 2\Web Development\Web Project 1\ITSligoSecondYearWeb\2018-web-programming-1-CrizzyK10\WebAssForUna\bin\Debug\netcoreapp2.0\WebAssForUna.deps.json
+C:\Users\Chris Kelly\College\Year 2\Web Development\Web Project 1\ITSligoSecondYearWeb\2018-web-programming-1-CrizzyK10\WebAssForUna\bin\Debug\netcoreapp2.0\WebAssForUna.runtimeconfig.json
+C:\Users\Chris Kelly\College\Year 2\Web Development\Web Project 1\ITSligoSecondYearWeb\2018-web-programming-1-CrizzyK10\WebAssForUna\bin\Debug\netcoreapp2.0\WebAssForUna.runtimeconfig.dev.json
+C:\Users\Chris Kelly\College\Year 2\Web Development\Web Project 1\ITSligoSecondYearWeb\2018-web-programming-1-CrizzyK10\WebAssForUna\bin\Debug\netcoreapp2.0\WebAssForUna.dll
+C:\Users\Chris Kelly\College\Year 2\Web Development\Web Project 1\ITSligoSecondYearWeb\2018-web-programming-1-CrizzyK10\WebAssForUna\bin\Debug\netcoreapp2.0\WebAssForUna.pdb
+C:\Users\Chris Kelly\College\Year 2\Web Development\Web Project 1\ITSligoSecondYearWeb\2018-web-programming-1-CrizzyK10\WebAssForUna\obj\Debug\netcoreapp2.0\WebAssForUna.csprojAssemblyReference.cache
+C:\Users\Chris Kelly\College\Year 2\Web Development\Web Project 1\ITSligoSecondYearWeb\2018-web-programming-1-CrizzyK10\WebAssForUna\obj\Debug\netcoreapp2.0\WebAssForUna.csproj.CoreCompileInputs.cache
+C:\Users\Chris Kelly\College\Year 2\Web Development\Web Project 1\ITSligoSecondYearWeb\2018-web-programming-1-CrizzyK10\WebAssForUna\obj\Debug\netcoreapp2.0\WebAssForUna.AssemblyInfoInputs.cache
+C:\Users\Chris Kelly\College\Year 2\Web Development\Web Project 1\ITSligoSecondYearWeb\2018-web-programming-1-CrizzyK10\WebAssForUna\obj\Debug\netcoreapp2.0\WebAssForUna.AssemblyInfo.cs
+C:\Users\Chris Kelly\College\Year 2\Web Development\Web Project 1\ITSligoSecondYearWeb\2018-web-programming-1-CrizzyK10\WebAssForUna\obj\Debug\netcoreapp2.0\WebAssForUna.dll
+C:\Users\Chris Kelly\College\Year 2\Web Development\Web Project 1\ITSligoSecondYearWeb\2018-web-programming-1-CrizzyK10\WebAssForUna\obj\Debug\netcoreapp2.0\WebAssForUna.pdb
+C:\Users\chris\Documents\College\Year 2\Web Development\Web Project 1\ITSligoSecondYearWeb\2018-web-programming-1-CrizzyK10\WebAssForUna\bin\Debug\netcoreapp2.0\WebAssForUna.deps.json
+C:\Users\chris\Documents\College\Year 2\Web Development\Web Project 1\ITSligoSecondYearWeb\2018-web-programming-1-CrizzyK10\WebAssForUna\bin\Debug\netcoreapp2.0\WebAssForUna.runtimeconfig.json
+C:\Users\chris\Documents\College\Year 2\Web Development\Web Project 1\ITSligoSecondYearWeb\2018-web-programming-1-CrizzyK10\WebAssForUna\bin\Debug\netcoreapp2.0\WebAssForUna.runtimeconfig.dev.json
+C:\Users\chris\Documents\College\Year 2\Web Development\Web Project 1\ITSligoSecondYearWeb\2018-web-programming-1-CrizzyK10\WebAssForUna\bin\Debug\netcoreapp2.0\WebAssForUna.dll
+C:\Users\chris\Documents\College\Year 2\Web Development\Web Project 1\ITSligoSecondYearWeb\2018-web-programming-1-CrizzyK10\WebAssForUna\bin\Debug\netcoreapp2.0\WebAssForUna.pdb
+C:\Users\chris\Documents\College\Year 2\Web Development\Web Project 1\ITSligoSecondYearWeb\2018-web-programming-1-CrizzyK10\WebAssForUna\obj\Debug\netcoreapp2.0\WebAssForUna.csprojAssemblyReference.cache
+C:\Users\chris\Documents\College\Year 2\Web Development\Web Project 1\ITSligoSecondYearWeb\2018-web-programming-1-CrizzyK10\WebAssForUna\obj\Debug\netcoreapp2.0\WebAssForUna.csproj.CoreCompileInputs.cache
+C:\Users\chris\Documents\College\Year 2\Web Development\Web Project 1\ITSligoSecondYearWeb\2018-web-programming-1-CrizzyK10\WebAssForUna\obj\Debug\netcoreapp2.0\WebAssForUna.AssemblyInfoInputs.cache
+C:\Users\chris\Documents\College\Year 2\Web Development\Web Project 1\ITSligoSecondYearWeb\2018-web-programming-1-CrizzyK10\WebAssForUna\obj\Debug\netcoreapp2.0\WebAssForUna.AssemblyInfo.cs
+C:\Users\chris\Documents\College\Year 2\Web Development\Web Project 1\ITSligoSecondYearWeb\2018-web-programming-1-CrizzyK10\WebAssForUna\obj\Debug\netcoreapp2.0\WebAssForUna.dll
+C:\Users\chris\Documents\College\Year 2\Web Development\Web Project 1\ITSligoSecondYearWeb\2018-web-programming-1-CrizzyK10\WebAssForUna\obj\Debug\netcoreapp2.0\WebAssForUna.pdb
+C:\Users\chris\Documents\College\Year 2\Web Development\Assignment 1\Web Assignment 1\ITSligoSecondYearWeb\2018-web-programming-1-CrizzyK10\WebAssForUna\bin\Debug\netcoreapp2.0\WebAssForUna.deps.json
+C:\Users\chris\Documents\College\Year 2\Web Development\Assignment 1\Web Assignment 1\ITSligoSecondYearWeb\2018-web-programming-1-CrizzyK10\WebAssForUna\bin\Debug\netcoreapp2.0\WebAssForUna.runtimeconfig.json
+C:\Users\chris\Documents\College\Year 2\Web Development\Assignment 1\Web Assignment 1\ITSligoSecondYearWeb\2018-web-programming-1-CrizzyK10\WebAssForUna\bin\Debug\netcoreapp2.0\WebAssForUna.runtimeconfig.dev.json
+C:\Users\chris\Documents\College\Year 2\Web Development\Assignment 1\Web Assignment 1\ITSligoSecondYearWeb\2018-web-programming-1-CrizzyK10\WebAssForUna\bin\Debug\netcoreapp2.0\WebAssForUna.dll
+C:\Users\chris\Documents\College\Year 2\Web Development\Assignment 1\Web Assignment 1\ITSligoSecondYearWeb\2018-web-programming-1-CrizzyK10\WebAssForUna\bin\Debug\netcoreapp2.0\WebAssForUna.pdb
+C:\Users\chris\Documents\College\Year 2\Web Development\Assignment 1\Web Assignment 1\ITSligoSecondYearWeb\2018-web-programming-1-CrizzyK10\WebAssForUna\obj\Debug\netcoreapp2.0\WebAssForUna.csprojAssemblyReference.cache
+C:\Users\chris\Documents\College\Year 2\Web Development\Assignment 1\Web Assignment 1\ITSligoSecondYearWeb\2018-web-programming-1-CrizzyK10\WebAssForUna\obj\Debug\netcoreapp2.0\WebAssForUna.csproj.CoreCompileInputs.cache
+C:\Users\chris\Documents\College\Year 2\Web Development\Assignment 1\Web Assignment 1\ITSligoSecondYearWeb\2018-web-programming-1-CrizzyK10\WebAssForUna\obj\Debug\netcoreapp2.0\WebAssForUna.AssemblyInfoInputs.cache
+C:\Users\chris\Documents\College\Year 2\Web Development\Assignment 1\Web Assignment 1\ITSligoSecondYearWeb\2018-web-programming-1-CrizzyK10\WebAssForUna\obj\Debug\netcoreapp2.0\WebAssForUna.AssemblyInfo.cs
+C:\Users\chris\Documents\College\Year 2\Web Development\Assignment 1\Web Assignment 1\ITSligoSecondYearWeb\2018-web-programming-1-CrizzyK10\WebAssForUna\obj\Debug\netcoreapp2.0\WebAssForUna.dll
+C:\Users\chris\Documents\College\Year 2\Web Development\Assignment 1\Web Assignment 1\ITSligoSecondYearWeb\2018-web-programming-1-CrizzyK10\WebAssForUna\obj\Debug\netcoreapp2.0\WebAssForUna.pdb
+C:\Users\chris\Documents\College\Year 2\Web Development\Assignment 1-2\Web Assignment 1\ITSligoSecondYearWeb\2018-web-programming-1-CrizzyK10\WebAssForUna\bin\Debug\netcoreapp2.0\WebAssForUna.deps.json
+C:\Users\chris\Documents\College\Year 2\Web Development\Assignment 1-2\Web Assignment 1\ITSligoSecondYearWeb\2018-web-programming-1-CrizzyK10\WebAssForUna\bin\Debug\netcoreapp2.0\WebAssForUna.runtimeconfig.json
+C:\Users\chris\Documents\College\Year 2\Web Development\Assignment 1-2\Web Assignment 1\ITSligoSecondYearWeb\2018-web-programming-1-CrizzyK10\WebAssForUna\bin\Debug\netcoreapp2.0\WebAssForUna.runtimeconfig.dev.json
+C:\Users\chris\Documents\College\Year 2\Web Development\Assignment 1-2\Web Assignment 1\ITSligoSecondYearWeb\2018-web-programming-1-CrizzyK10\WebAssForUna\bin\Debug\netcoreapp2.0\WebAssForUna.dll
+C:\Users\chris\Documents\College\Year 2\Web Development\Assignment 1-2\Web Assignment 1\ITSligoSecondYearWeb\2018-web-programming-1-CrizzyK10\WebAssForUna\bin\Debug\netcoreapp2.0\WebAssForUna.pdb
+C:\Users\chris\Documents\College\Year 2\Web Development\Assignment 1-2\Web Assignment 1\ITSligoSecondYearWeb\2018-web-programming-1-CrizzyK10\WebAssForUna\obj\Debug\netcoreapp2.0\WebAssForUna.csprojAssemblyReference.cache
+C:\Users\chris\Documents\College\Year 2\Web Development\Assignment 1-2\Web Assignment 1\ITSligoSecondYearWeb\2018-web-programming-1-CrizzyK10\WebAssForUna\obj\Debug\netcoreapp2.0\WebAssForUna.csproj.CoreCompileInputs.cache
+C:\Users\chris\Documents\College\Year 2\Web Development\Assignment 1-2\Web Assignment 1\ITSligoSecondYearWeb\2018-web-programming-1-CrizzyK10\WebAssForUna\obj\Debug\netcoreapp2.0\WebAssForUna.AssemblyInfoInputs.cache
+C:\Users\chris\Documents\College\Year 2\Web Development\Assignment 1-2\Web Assignment 1\ITSligoSecondYearWeb\2018-web-programming-1-CrizzyK10\WebAssForUna\obj\Debug\netcoreapp2.0\WebAssForUna.AssemblyInfo.cs
+C:\Users\chris\Documents\College\Year 2\Web Development\Assignment 1-2\Web Assignment 1\ITSligoSecondYearWeb\2018-web-programming-1-CrizzyK10\WebAssForUna\obj\Debug\netcoreapp2.0\WebAssForUna.dll
+C:\Users\chris\Documents\College\Year 2\Web Development\Assignment 1-2\Web Assignment 1\ITSligoSecondYearWeb\2018-web-programming-1-CrizzyK10\WebAssForUna\obj\Debug\netcoreapp2.0\WebAssForUna.pdb

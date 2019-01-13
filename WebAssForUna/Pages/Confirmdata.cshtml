@@ -1,0 +1,42 @@
+﻿@page
+@model WebAssForUna.Pages.ConfirmdataModel
+@{
+	Layout = "_Layout";
+}
+<div class="header">
+	<h2>LetLove="True"</h2>
+</div>
+<div class="container">
+	<h3>
+		Is this data correct?
+	</h3>
+	<div class="output">
+		<div>First Name: @Model.Person.FName</div>
+		<div>Surname: @Model.Person.SName</div>
+		<div>PPSN: @Model.Person.PPSN</div>
+		<div>Date Of Birth: @Model.Person.DOB</div>
+		<div>Gender: @Model.Person.Gender</div>
+		<div>Height: @Model.Person.Height</div>
+		<div>E-mail: @Model.Person.Email</div>
+		<div>Phone Number: @Model.Person.PNumber</div>
+		<div>Relationship Status: @Model.Person.RStatus</div>
+		<div>Interests:
+		@for (int i = 0; i < Model.Person.Interests.Length; i++)
+		{
+			if (Model.Person.Interests[i])
+			{
+				<div>@Model.Person.InterestsArray[i]</div>
+			}
+		}
+		</div>
+	</div>
+	<h3>
+		Would you like to submit this data or return to edit it?
+	</h3>
+	<form method="get" action="form">
+		<button type="submit" class="btn">Back To Edit</button>
+	</form>
+	<form method="get" action="Thankyou">
+		<button type="submit" class="btn">Confirm Data</button>
+	</form>
+</div>
